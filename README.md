@@ -1,9 +1,11 @@
 # System Monitoring
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![GitHub](https://img.shields.io/badge/GitHub-yksanjo%2Fsystem--monitoring-181717?logo=github)](https://github.com/yksanjo/system-monitoring)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![System](https://img.shields.io/badge/system-monitoring-95a5a6.svg)](https://shields.io/)
+[![System](https://img.shields.io/badge/system-monitoring-95a5a6.svg?logo=linux)](https://shields.io/)
 [![Status](https://img.shields.io/badge/status-stable-success.svg)](https://shields.io/)
+[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 > Comprehensive system monitoring and workflow tracking tools
 
@@ -41,7 +43,7 @@ System Monitoring is a comprehensive suite of utilities for monitoring system re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/system-monitoring.git
+   git clone https://github.com/yksanjo/system-monitoring.git
    cd system-monitoring
    ```
 
@@ -185,7 +187,7 @@ We welcome contributions! Here's how you can help:
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/system-monitoring.git
+git clone https://github.com/yksanjo/system-monitoring.git
 cd system-monitoring
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -202,8 +204,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 - Check the [documentation](docs/)
-- Open an [issue](https://github.com/yourusername/system-monitoring/issues)
-- Submit a [pull request](https://github.com/yourusername/system-monitoring/pulls)
+- Open an [issue](https://github.com/yksanjo/system-monitoring/issues)
+- Submit a [pull request](https://github.com/yksanjo/system-monitoring/pulls)
 
 ## 🙏 Acknowledgments
 
